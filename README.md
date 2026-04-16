@@ -75,7 +75,6 @@ This repository showcases a collection of real-world projects where I applied da
 Each project folder contains:
 - Dataset  
 - Jupyter Notebook  
-- Visualizations  
 - Project-specific README  
 
 ---

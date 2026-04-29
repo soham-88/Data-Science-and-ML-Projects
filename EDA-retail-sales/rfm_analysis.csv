@@ -1,0 +1,1001 @@
+Customer ID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+CUST001,39,1,150,4,1,3,8,Loyal Customers
+CUST002,309,1,1000,1,1,4,6,Potential Loyalists
+CUST003,354,1,30,1,1,1,3,Lost Customers
+CUST004,226,1,500,2,1,3,6,Potential Loyalists
+CUST005,241,1,100,2,1,2,5,At Risk
+CUST006,252,1,30,2,1,1,4,At Risk
+CUST007,295,1,50,1,1,1,3,Lost Customers
+CUST008,314,1,100,1,1,2,4,At Risk
+CUST009,20,1,600,4,1,3,8,Loyal Customers
+CUST010,87,1,200,4,1,3,8,Loyal Customers
+CUST011,322,1,100,1,1,2,4,At Risk
+CUST012,64,1,75,4,1,2,7,Potential Loyalists
+CUST013,150,1,1500,3,1,4,8,Loyal Customers
+CUST014,350,1,120,1,1,2,4,At Risk
+CUST015,351,1,2000,1,1,4,6,Potential Loyalists
+CUST016,319,1,1500,1,1,4,6,Potential Loyalists
+CUST017,255,1,100,2,1,2,5,At Risk
+CUST018,247,1,50,2,1,1,4,At Risk
+CUST019,108,1,50,3,1,1,5,At Risk
+CUST020,58,1,900,4,1,3,8,Loyal Customers
+CUST021,353,1,500,1,1,3,5,At Risk
+CUST022,79,1,100,4,1,2,7,Potential Loyalists
+CUST023,265,1,120,2,1,2,5,At Risk
+CUST024,34,1,300,4,1,3,8,Loyal Customers
+CUST025,7,1,50,4,1,1,6,Potential Loyalists
+CUST026,87,1,1000,4,1,4,9,Loyal Customers
+CUST027,152,1,50,3,1,1,5,At Risk
+CUST028,254,1,500,2,1,3,6,Potential Loyalists
+CUST029,137,1,30,3,1,1,5,At Risk
+CUST030,65,1,900,4,1,3,8,Loyal Customers
+CUST031,224,1,1200,2,1,4,7,Potential Loyalists
+CUST032,363,1,90,1,1,2,4,At Risk
+CUST033,285,1,100,1,1,2,4,At Risk
+CUST034,9,1,150,4,1,3,8,Loyal Customers
+CUST035,150,1,900,3,1,3,7,Potential Loyalists
+CUST036,192,1,900,2,1,3,6,Potential Loyalists
+CUST037,224,1,75,2,1,2,5,At Risk
+CUST038,287,1,200,1,1,3,5,At Risk
+CUST039,256,1,120,2,1,2,5,At Risk
+CUST040,194,1,50,2,1,1,4,At Risk
+CUST041,314,1,50,1,1,1,3,Lost Customers
+CUST042,319,1,900,1,1,3,5,At Risk
+CUST043,172,1,300,3,1,3,7,Potential Loyalists
+CUST044,317,1,25,1,1,1,3,Lost Customers
+CUST045,183,1,30,3,1,1,5,At Risk
+CUST046,190,1,1200,2,1,4,7,Potential Loyalists
+CUST047,57,1,1500,4,1,4,9,Loyal Customers
+CUST048,231,1,900,2,1,3,6,Potential Loyalists
+CUST049,344,1,1000,1,1,4,6,Potential Loyalists
+CUST050,131,1,75,3,1,2,6,Potential Loyalists
+CUST051,92,1,75,3,1,2,6,Potential Loyalists
+CUST052,303,1,300,1,1,3,5,At Risk
+CUST053,173,1,100,3,1,2,6,Potential Loyalists
+CUST054,326,1,1500,1,1,4,6,Potential Loyalists
+CUST055,84,1,120,4,1,2,7,Potential Loyalists
+CUST056,216,1,900,2,1,3,6,Potential Loyalists
+CUST057,45,1,30,4,1,1,6,Potential Loyalists
+CUST058,50,1,1200,4,1,4,9,Loyal Customers
+CUST059,181,1,50,3,1,1,5,At Risk
+CUST060,71,1,150,4,1,3,8,Loyal Customers
+CUST061,268,1,200,2,1,3,6,Potential Loyalists
+CUST062,6,1,100,4,1,2,7,Potential Loyalists
+CUST063,331,1,50,1,1,1,3,Lost Customers
+CUST064,343,1,100,1,1,2,4,At Risk
+CUST065,28,1,2000,4,1,4,9,Loyal Customers
+CUST066,250,1,30,2,1,1,4,At Risk
+CUST067,218,1,1200,2,1,4,7,Potential Loyalists
+CUST068,326,1,300,1,1,3,5,At Risk
+CUST069,247,1,75,2,1,2,5,At Risk
+CUST070,315,1,300,1,1,3,5,At Risk
+CUST071,172,1,100,3,1,2,6,Potential Loyalists
+CUST072,224,1,2000,2,1,4,7,Potential Loyalists
+CUST073,134,1,90,3,1,2,6,Potential Loyalists
+CUST074,41,1,2000,4,1,4,9,Loyal Customers
+CUST075,180,1,200,3,1,3,7,Potential Loyalists
+CUST076,283,1,100,1,1,2,4,At Risk
+CUST077,177,1,100,3,1,2,6,Potential Loyalists
+CUST078,185,1,1500,3,1,4,8,Loyal Customers
+CUST079,259,1,300,2,1,3,6,Potential Loyalists
+CUST080,23,1,60,4,1,1,6,Potential Loyalists
+CUST081,230,1,50,2,1,1,4,At Risk
+CUST082,7,1,200,4,1,3,8,Loyal Customers
+CUST083,17,1,100,4,1,2,7,Potential Loyalists
+CUST084,35,1,90,4,1,2,7,Potential Loyalists
+CUST085,330,1,150,1,1,3,5,At Risk
+CUST086,55,1,90,4,1,2,7,Potential Loyalists
+CUST087,41,1,100,4,1,2,7,Potential Loyalists
+CUST088,279,1,500,1,1,3,5,At Risk
+CUST089,93,1,2000,3,1,4,8,Loyal Customers
+CUST090,241,1,30,2,1,1,4,At Risk
+CUST091,283,1,500,1,1,3,5,At Risk
+CUST092,130,1,120,3,1,2,6,Potential Loyalists
+CUST093,172,1,2000,3,1,4,8,Loyal Customers
+CUST094,228,1,1000,2,1,4,7,Potential Loyalists
+CUST095,39,1,60,4,1,1,6,Potential Loyalists
+CUST096,14,1,600,4,1,3,8,Loyal Customers
+CUST097,81,1,1000,4,1,4,9,Loyal Customers
+CUST098,254,1,100,2,1,2,5,At Risk
+CUST099,16,1,1200,4,1,4,9,Loyal Customers
+CUST100,200,1,30,2,1,1,4,At Risk
+CUST1000,265,1,120,2,1,2,5,At Risk
+CUST101,338,1,600,1,1,3,5,At Risk
+CUST102,249,1,50,2,1,1,4,At Risk
+CUST103,350,1,25,1,1,1,3,Lost Customers
+CUST104,205,1,1000,2,1,4,7,Potential Loyalists
+CUST105,161,1,500,3,1,3,7,Potential Loyalists
+CUST106,229,1,50,2,1,1,4,At Risk
+CUST107,333,1,1200,1,1,4,6,Potential Loyalists
+CUST108,258,1,75,2,1,2,5,At Risk
+CUST109,76,1,2000,4,1,4,9,Loyal Customers
+CUST110,205,1,900,2,1,3,6,Potential Loyalists
+CUST111,258,1,1500,2,1,4,7,Potential Loyalists
+CUST112,31,1,1500,4,1,4,9,Loyal Customers
+CUST113,111,1,50,3,1,1,5,At Risk
+CUST114,164,1,100,3,1,2,6,Potential Loyalists
+CUST115,37,1,1500,4,1,4,9,Loyal Customers
+CUST116,132,1,30,3,1,1,5,At Risk
+CUST117,293,1,1000,1,1,4,6,Potential Loyalists
+CUST118,231,1,2000,2,1,4,7,Potential Loyalists
+CUST119,295,1,150,1,1,3,5,At Risk
+CUST120,240,1,50,2,1,1,4,At Risk
+CUST121,79,1,200,4,1,3,8,Loyal Customers
+CUST122,91,1,120,3,1,2,6,Potential Loyalists
+CUST123,232,1,60,2,1,1,4,At Risk
+CUST124,67,1,2000,4,1,4,9,Loyal Customers
+CUST125,147,1,100,3,1,2,6,Potential Loyalists
+CUST126,68,1,90,4,1,2,7,Potential Loyalists
+CUST127,162,1,50,3,1,1,5,At Risk
+CUST128,181,1,500,3,1,3,7,Potential Loyalists
+CUST129,254,1,600,2,1,3,6,Potential Loyalists
+CUST130,296,1,500,1,1,3,5,At Risk
+CUST131,106,1,600,3,1,3,7,Potential Loyalists
+CUST132,114,1,200,3,1,3,7,Potential Loyalists
+CUST133,320,1,900,1,1,3,5,At Risk
+CUST134,342,1,50,1,1,1,3,Lost Customers
+CUST135,310,1,50,1,1,1,3,Lost Customers
+CUST136,288,1,600,1,1,3,5,At Risk
+CUST137,45,1,1000,4,1,4,9,Loyal Customers
+CUST138,285,1,200,1,1,3,5,At Risk
+CUST139,18,1,2000,4,1,4,9,Loyal Customers
+CUST140,150,1,30,3,1,1,5,At Risk
+CUST141,61,1,50,4,1,1,6,Potential Loyalists
+CUST142,334,1,1200,1,1,4,6,Potential Loyalists
+CUST143,169,1,50,3,1,1,5,At Risk
+CUST144,171,1,1500,3,1,4,8,Loyal Customers
+CUST145,61,1,75,4,1,2,7,Potential Loyalists
+CUST146,127,1,200,3,1,3,7,Potential Loyalists
+CUST147,96,1,300,3,1,3,7,Potential Loyalists
+CUST148,238,1,60,2,1,1,4,At Risk
+CUST149,83,1,75,4,1,2,7,Potential Loyalists
+CUST150,361,1,120,1,1,2,4,At Risk
+CUST151,18,1,50,4,1,1,6,Potential Loyalists
+CUST152,308,1,2000,1,1,4,6,Potential Loyalists
+CUST153,17,1,1000,4,1,4,9,Loyal Customers
+CUST154,92,1,900,3,1,3,7,Potential Loyalists
+CUST155,230,1,2000,2,1,4,7,Potential Loyalists
+CUST156,38,1,100,4,1,2,7,Potential Loyalists
+CUST157,192,1,2000,2,1,4,7,Potential Loyalists
+CUST158,309,1,600,1,1,3,5,At Risk
+CUST159,216,1,200,2,1,3,6,Potential Loyalists
+CUST160,144,1,100,3,1,2,6,Potential Loyalists
+CUST161,286,1,1000,1,1,4,6,Potential Loyalists
+CUST162,134,1,60,3,1,1,5,At Risk
+CUST163,365,1,150,1,1,3,5,At Risk
+CUST164,232,1,1500,2,1,4,7,Potential Loyalists
+CUST165,110,1,1200,3,1,4,8,Loyal Customers
+CUST166,275,1,2000,1,1,4,6,Potential Loyalists
+CUST167,107,1,150,3,1,3,7,Potential Loyalists
+CUST168,312,1,300,1,1,3,5,At Risk
+CUST169,46,1,1500,4,1,4,9,Loyal Customers
+CUST170,214,1,50,2,1,1,4,At Risk
+CUST171,39,1,900,4,1,3,8,Loyal Customers
+CUST172,107,1,50,3,1,1,5,At Risk
+CUST173,55,1,120,4,1,2,7,Potential Loyalists
+CUST174,265,1,300,2,1,3,6,Potential Loyalists
+CUST175,288,1,100,1,1,2,4,At Risk
+CUST176,175,1,100,3,1,2,6,Potential Loyalists
+CUST177,284,1,100,1,1,2,4,At Risk
+CUST178,90,1,60,4,1,1,6,Potential Loyalists
+CUST179,95,1,300,3,1,3,7,Potential Loyalists
+CUST180,366,1,900,1,1,3,5,At Risk
+CUST181,60,1,1200,4,1,4,9,Loyal Customers
+CUST182,201,1,120,2,1,2,5,At Risk
+CUST183,116,1,900,3,1,3,7,Potential Loyalists
+CUST184,357,1,200,1,1,3,5,At Risk
+CUST185,309,1,25,1,1,1,3,Lost Customers
+CUST186,181,1,200,3,1,3,7,Potential Loyalists
+CUST187,209,1,100,2,1,2,5,At Risk
+CUST188,244,1,75,2,1,2,5,At Risk
+CUST189,337,1,50,1,1,1,3,Lost Customers
+CUST190,243,1,90,2,1,2,5,At Risk
+CUST191,76,1,25,4,1,1,6,Potential Loyalists
+CUST192,326,1,100,1,1,2,4,At Risk
+CUST193,323,1,1500,1,1,4,6,Potential Loyalists
+CUST194,118,1,200,3,1,3,7,Potential Loyalists
+CUST195,331,1,30,1,1,1,3,Lost Customers
+CUST196,94,1,900,3,1,3,7,Potential Loyalists
+CUST197,302,1,200,1,1,3,5,At Risk
+CUST198,301,1,900,1,1,3,5,At Risk
+CUST199,29,1,1500,4,1,4,9,Loyal Customers
+CUST200,123,1,150,3,1,3,7,Potential Loyalists
+CUST201,85,1,25,4,1,1,6,Potential Loyalists
+CUST202,282,1,1200,1,1,4,6,Potential Loyalists
+CUST203,231,1,1000,2,1,4,7,Potential Loyalists
+CUST204,96,1,25,3,1,1,5,At Risk
+CUST205,56,1,25,4,1,1,6,Potential Loyalists
+CUST206,150,1,25,3,1,1,5,At Risk
+CUST207,258,1,50,2,1,1,4,At Risk
+CUST208,90,1,200,4,1,3,8,Loyal Customers
+CUST209,13,1,200,4,1,3,8,Loyal Customers
+CUST210,264,1,200,2,1,3,6,Potential Loyalists
+CUST211,1,1,1500,4,1,4,9,Loyal Customers
+CUST212,207,1,1500,2,1,4,7,Potential Loyalists
+CUST213,162,1,1500,3,1,4,8,Loyal Customers
+CUST214,23,1,60,4,1,1,6,Potential Loyalists
+CUST215,34,1,1500,4,1,4,9,Loyal Customers
+CUST216,175,1,100,3,1,2,6,Potential Loyalists
+CUST217,142,1,200,3,1,3,7,Potential Loyalists
+CUST218,102,1,90,3,1,2,6,Potential Loyalists
+CUST219,135,1,90,3,1,2,6,Potential Loyalists
+CUST220,305,1,500,1,1,3,5,At Risk
+CUST221,240,1,600,2,1,3,6,Potential Loyalists
+CUST222,251,1,120,2,1,2,5,At Risk
+CUST223,334,1,25,1,1,1,3,Lost Customers
+CUST224,193,1,50,2,1,1,4,At Risk
+CUST225,356,1,100,1,1,2,4,At Risk
+CUST226,65,1,50,4,1,1,6,Potential Loyalists
+CUST227,83,1,100,4,1,2,7,Potential Loyalists
+CUST228,249,1,60,2,1,1,4,At Risk
+CUST229,65,1,90,4,1,2,7,Potential Loyalists
+CUST230,254,1,25,2,1,1,4,At Risk
+CUST231,363,1,150,1,1,3,5,At Risk
+CUST232,330,1,25,1,1,1,3,Lost Customers
+CUST233,4,1,600,4,1,3,8,Loyal Customers
+CUST234,43,1,50,4,1,1,6,Potential Loyalists
+CUST235,336,1,1000,1,1,4,6,Potential Loyalists
+CUST236,249,1,25,2,1,1,4,At Risk
+CUST237,332,1,1000,1,1,4,6,Potential Loyalists
+CUST238,350,1,500,1,1,3,5,At Risk
+CUST239,197,1,1500,2,1,4,7,Potential Loyalists
+CUST240,330,1,300,1,1,3,5,At Risk
+CUST241,103,1,75,3,1,2,6,Potential Loyalists
+CUST242,245,1,25,2,1,1,4,At Risk
+CUST243,224,1,900,2,1,3,6,Potential Loyalists
+CUST244,24,1,100,4,1,2,7,Potential Loyalists
+CUST245,118,1,90,3,1,2,6,Potential Loyalists
+CUST246,257,1,50,2,1,1,4,At Risk
+CUST247,90,1,60,4,1,1,6,Potential Loyalists
+CUST248,299,1,900,1,1,3,5,At Risk
+CUST249,74,1,50,4,1,1,6,Potential Loyalists
+CUST250,71,1,50,4,2,1,7,Potential Loyalists
+CUST251,124,1,200,3,2,3,8,Loyal Customers
+CUST252,242,1,300,2,2,3,7,Potential Loyalists
+CUST253,124,1,2000,3,2,4,9,Loyal Customers
+CUST254,158,1,500,3,2,3,8,Loyal Customers
+CUST255,269,1,30,2,2,1,5,At Risk
+CUST256,318,1,1000,1,2,4,7,Potential Loyalists
+CUST257,317,1,2000,1,2,4,7,Potential Loyalists
+CUST258,29,1,50,4,2,1,7,Potential Loyalists
+CUST259,146,1,200,3,2,3,8,Loyal Customers
+CUST260,185,1,60,3,2,1,6,Potential Loyalists
+CUST261,150,1,50,3,2,1,6,Potential Loyalists
+CUST262,156,1,120,3,2,2,7,Potential Loyalists
+CUST263,127,1,60,3,2,1,6,Potential Loyalists
+CUST264,339,1,900,1,2,3,6,Potential Loyalists
+CUST265,22,1,900,4,2,3,9,Loyal Customers
+CUST266,32,1,60,4,2,1,7,Potential Loyalists
+CUST267,36,1,90,4,2,2,8,Loyal Customers
+CUST268,316,1,30,1,2,1,4,At Risk
+CUST269,335,1,2000,1,2,4,7,Potential Loyalists
+CUST270,160,1,300,3,2,3,8,Loyal Customers
+CUST271,193,1,120,2,2,2,6,Potential Loyalists
+CUST272,311,1,100,1,2,2,5,At Risk
+CUST273,239,1,50,2,2,1,5,At Risk
+CUST274,268,1,1000,2,2,4,8,Loyal Customers
+CUST275,269,1,1000,2,2,4,8,Loyal Customers
+CUST276,92,1,100,3,2,2,7,Potential Loyalists
+CUST277,137,1,100,3,2,2,7,Potential Loyalists
+CUST278,295,1,100,1,2,2,5,At Risk
+CUST279,150,1,500,3,2,3,8,Loyal Customers
+CUST280,273,1,1500,1,2,4,7,Potential Loyalists
+CUST281,224,1,2000,2,2,4,8,Loyal Customers
+CUST282,130,1,200,3,2,3,8,Loyal Customers
+CUST283,239,1,500,2,2,3,7,Potential Loyalists
+CUST284,328,1,200,1,2,3,6,Potential Loyalists
+CUST285,140,1,25,3,2,1,6,Potential Loyalists
+CUST286,85,1,50,4,2,1,7,Potential Loyalists
+CUST287,316,1,100,1,2,2,5,At Risk
+CUST288,341,1,120,1,2,2,5,At Risk
+CUST289,33,1,60,4,2,1,7,Potential Loyalists
+CUST290,90,1,600,4,2,3,9,Loyal Customers
+CUST291,359,1,600,1,2,3,6,Potential Loyalists
+CUST292,319,1,1200,1,2,4,7,Potential Loyalists
+CUST293,245,1,90,2,2,2,6,Potential Loyalists
+CUST294,281,1,90,1,2,2,5,At Risk
+CUST295,158,1,900,3,2,3,8,Loyal Customers
+CUST296,118,1,1200,3,2,4,9,Loyal Customers
+CUST297,120,1,1000,3,2,4,9,Loyal Customers
+CUST298,257,1,1200,2,2,4,8,Loyal Customers
+CUST299,161,1,1000,3,2,4,9,Loyal Customers
+CUST300,336,1,200,1,2,3,6,Potential Loyalists
+CUST301,282,1,120,1,2,2,5,At Risk
+CUST302,172,1,600,3,2,3,8,Loyal Customers
+CUST303,365,1,90,1,2,2,5,At Risk
+CUST304,167,1,60,3,2,1,6,Potential Loyalists
+CUST305,231,1,30,2,2,1,5,At Risk
+CUST306,134,1,50,3,2,1,6,Potential Loyalists
+CUST307,220,1,50,2,2,1,5,At Risk
+CUST308,150,1,1200,3,2,4,9,Loyal Customers
+CUST309,10,1,25,4,2,1,7,Potential Loyalists
+CUST310,82,1,25,4,2,1,7,Potential Loyalists
+CUST311,28,1,100,4,2,2,8,Loyal Customers
+CUST312,117,1,120,3,2,2,7,Potential Loyalists
+CUST313,287,1,1500,1,2,4,7,Potential Loyalists
+CUST314,269,1,120,2,2,2,6,Potential Loyalists
+CUST315,215,1,60,2,2,1,5,At Risk
+CUST316,255,1,50,2,2,1,5,At Risk
+CUST317,337,1,90,1,2,2,5,At Risk
+CUST318,70,1,25,4,2,1,7,Potential Loyalists
+CUST319,89,1,500,4,2,3,9,Loyal Customers
+CUST320,335,1,1200,1,2,4,7,Potential Loyalists
+CUST321,206,1,50,2,2,1,5,At Risk
+CUST322,337,1,500,1,2,3,6,Potential Loyalists
+CUST323,341,1,900,1,2,3,6,Potential Loyalists
+CUST324,67,1,150,4,2,3,9,Loyal Customers
+CUST325,122,1,50,3,2,1,6,Potential Loyalists
+CUST326,109,1,75,3,2,2,7,Potential Loyalists
+CUST327,95,1,150,3,2,3,8,Loyal Customers
+CUST328,286,1,100,1,2,2,5,At Risk
+CUST329,337,1,100,1,2,2,5,At Risk
+CUST330,106,1,200,3,2,3,8,Loyal Customers
+CUST331,325,1,90,1,2,2,5,At Risk
+CUST332,271,1,1200,1,2,4,7,Potential Loyalists
+CUST333,331,1,1200,1,2,4,7,Potential Loyalists
+CUST334,62,1,900,4,2,3,9,Loyal Customers
+CUST335,332,1,120,1,2,2,5,At Risk
+CUST336,21,1,150,4,2,3,9,Loyal Customers
+CUST337,246,1,500,2,2,3,7,Potential Loyalists
+CUST338,160,1,100,3,2,2,7,Potential Loyalists
+CUST339,305,1,50,1,2,1,4,At Risk
+CUST340,75,1,1200,4,2,4,10,Champions
+CUST341,240,1,200,2,2,3,7,Potential Loyalists
+CUST342,70,1,2000,4,2,4,10,Champions
+CUST343,62,1,50,4,2,1,7,Potential Loyalists
+CUST344,346,1,30,1,2,1,4,At Risk
+CUST345,49,1,30,4,2,1,7,Potential Loyalists
+CUST346,325,1,1000,1,2,4,7,Potential Loyalists
+CUST347,152,1,25,3,2,1,6,Potential Loyalists
+CUST348,30,1,600,4,2,3,9,Loyal Customers
+CUST349,68,1,50,4,2,1,7,Potential Loyalists
+CUST350,77,1,75,4,2,2,8,Loyal Customers
+CUST351,99,1,90,3,2,2,7,Potential Loyalists
+CUST352,205,1,1000,2,2,4,8,Loyal Customers
+CUST353,233,1,500,2,2,3,7,Potential Loyalists
+CUST354,262,1,200,2,2,3,7,Potential Loyalists
+CUST355,24,1,500,4,2,3,9,Loyal Customers
+CUST356,206,1,1500,2,2,4,8,Loyal Customers
+CUST357,244,1,75,2,2,2,6,Potential Loyalists
+CUST358,231,1,300,2,2,3,7,Potential Loyalists
+CUST359,164,1,50,3,2,1,6,Potential Loyalists
+CUST360,299,1,100,1,2,2,5,At Risk
+CUST361,23,1,1200,4,2,4,10,Champions
+CUST362,36,1,25,4,2,1,7,Potential Loyalists
+CUST363,213,1,25,2,2,1,5,At Risk
+CUST364,132,1,500,3,2,3,8,Loyal Customers
+CUST365,205,1,300,2,2,3,7,Potential Loyalists
+CUST366,329,1,100,1,2,2,5,At Risk
+CUST367,362,1,50,1,2,1,4,At Risk
+CUST368,132,1,1200,3,2,4,9,Loyal Customers
+CUST369,48,1,1500,4,2,4,10,Champions
+CUST370,78,1,60,4,2,1,7,Potential Loyalists
+CUST371,315,1,25,1,2,1,4,At Risk
+CUST372,329,1,1500,1,2,4,7,Potential Loyalists
+CUST373,91,1,600,3,2,3,8,Loyal Customers
+CUST374,257,1,75,2,2,2,6,Potential Loyalists
+CUST375,107,1,50,3,2,1,6,Potential Loyalists
+CUST376,231,1,30,2,2,1,5,At Risk
+CUST377,299,1,200,1,2,3,6,Potential Loyalists
+CUST378,188,1,300,2,2,3,7,Potential Loyalists
+CUST379,331,1,25,1,2,1,4,At Risk
+CUST380,241,1,600,2,2,3,7,Potential Loyalists
+CUST381,177,1,100,3,2,2,7,Potential Loyalists
+CUST382,221,1,1000,2,2,4,8,Loyal Customers
+CUST383,286,1,90,1,2,2,5,At Risk
+CUST384,142,1,500,3,2,3,8,Loyal Customers
+CUST385,88,1,1500,4,2,4,10,Champions
+CUST386,6,1,600,4,2,3,9,Loyal Customers
+CUST387,212,1,30,2,2,1,5,At Risk
+CUST388,53,1,25,4,2,1,7,Potential Loyalists
+CUST389,32,1,50,4,2,1,7,Potential Loyalists
+CUST390,96,1,100,3,2,2,7,Potential Loyalists
+CUST391,362,1,50,1,2,1,4,At Risk
+CUST392,25,1,600,4,2,3,9,Loyal Customers
+CUST393,83,1,1000,4,2,4,10,Champions
+CUST394,213,1,500,2,2,3,7,Potential Loyalists
+CUST395,27,1,1000,4,2,4,10,Champions
+CUST396,313,1,30,1,2,1,4,At Risk
+CUST397,298,1,25,1,2,1,4,At Risk
+CUST398,231,1,600,2,2,3,7,Potential Loyalists
+CUST399,307,1,60,1,2,1,4,At Risk
+CUST400,312,1,200,1,2,3,6,Potential Loyalists
+CUST401,83,1,300,4,2,3,9,Loyal Customers
+CUST402,287,1,600,1,2,3,6,Potential Loyalists
+CUST403,227,1,600,2,2,3,7,Potential Loyalists
+CUST404,222,1,1000,2,2,4,8,Loyal Customers
+CUST405,57,1,1200,4,2,4,10,Champions
+CUST406,259,1,100,2,2,2,6,Potential Loyalists
+CUST407,191,1,900,2,2,3,7,Potential Loyalists
+CUST408,262,1,500,2,2,3,7,Potential Loyalists
+CUST409,15,1,900,4,2,3,9,Loyal Customers
+CUST410,42,1,100,4,2,2,8,Loyal Customers
+CUST411,231,1,200,2,2,3,7,Potential Loyalists
+CUST412,108,1,2000,3,2,4,9,Loyal Customers
+CUST413,116,1,75,3,2,2,7,Potential Loyalists
+CUST414,238,1,100,2,2,2,6,Potential Loyalists
+CUST415,340,1,60,1,2,1,4,At Risk
+CUST416,319,1,2000,1,2,4,7,Potential Loyalists
+CUST417,42,1,900,4,2,3,9,Loyal Customers
+CUST418,150,1,1000,3,2,4,9,Loyal Customers
+CUST419,225,1,90,2,2,2,6,Potential Loyalists
+CUST420,344,1,2000,1,2,4,7,Potential Loyalists
+CUST421,365,1,1500,1,2,4,7,Potential Loyalists
+CUST422,196,1,90,2,2,2,6,Potential Loyalists
+CUST423,300,1,25,1,2,1,4,At Risk
+CUST424,40,1,1200,4,2,4,10,Champions
+CUST425,232,1,120,2,2,2,6,Potential Loyalists
+CUST426,284,1,150,1,2,3,6,Potential Loyalists
+CUST427,140,1,25,3,2,1,6,Potential Loyalists
+CUST428,84,1,200,4,2,3,9,Loyal Customers
+CUST429,5,1,50,4,2,1,7,Potential Loyalists
+CUST430,148,1,900,3,2,3,8,Loyal Customers
+CUST431,79,1,1200,4,2,4,10,Champions
+CUST432,362,1,1000,1,2,4,7,Potential Loyalists
+CUST433,309,1,200,1,2,3,6,Potential Loyalists
+CUST434,328,1,50,1,2,1,4,At Risk
+CUST435,13,1,900,4,2,3,9,Loyal Customers
+CUST436,290,1,120,1,2,2,5,At Risk
+CUST437,87,1,1200,4,2,4,10,Champions
+CUST438,348,1,30,1,2,1,4,At Risk
+CUST439,177,1,75,3,2,2,7,Potential Loyalists
+CUST440,68,1,600,4,2,3,9,Loyal Customers
+CUST441,84,1,1200,4,2,4,10,Champions
+CUST442,291,1,100,1,2,2,5,At Risk
+CUST443,146,1,600,3,2,3,8,Loyal Customers
+CUST444,301,1,90,1,2,2,5,At Risk
+CUST445,345,1,300,1,2,3,6,Potential Loyalists
+CUST446,209,1,50,2,2,1,5,At Risk
+CUST447,180,1,2000,3,2,4,9,Loyal Customers
+CUST448,346,1,60,1,2,1,4,At Risk
+CUST449,183,1,200,3,2,3,8,Loyal Customers
+CUST450,259,1,50,2,2,1,5,At Risk
+CUST451,17,1,30,4,2,1,7,Potential Loyalists
+CUST452,239,1,1500,2,2,4,8,Loyal Customers
+CUST453,25,1,1000,4,2,4,10,Champions
+CUST454,314,1,25,1,2,1,4,At Risk
+CUST455,185,1,100,3,2,2,7,Potential Loyalists
+CUST456,80,1,60,4,2,1,7,Potential Loyalists
+CUST457,158,1,900,3,2,3,8,Loyal Customers
+CUST458,49,1,100,4,2,2,8,Loyal Customers
+CUST459,287,1,1200,1,2,4,7,Potential Loyalists
+CUST460,245,1,50,2,2,1,5,At Risk
+CUST461,283,1,1000,1,2,4,7,Potential Loyalists
+CUST462,276,1,1200,1,2,4,7,Potential Loyalists
+CUST463,155,1,1500,3,2,4,9,Loyal Customers
+CUST464,354,1,600,1,2,3,6,Potential Loyalists
+CUST465,275,1,150,1,2,3,6,Potential Loyalists
+CUST466,196,1,100,2,2,2,6,Potential Loyalists
+CUST467,156,1,150,3,2,3,8,Loyal Customers
+CUST468,24,1,25,4,2,1,7,Potential Loyalists
+CUST469,239,1,75,2,2,2,6,Potential Loyalists
+CUST470,230,1,1000,2,2,4,8,Loyal Customers
+CUST471,285,1,150,1,2,3,6,Potential Loyalists
+CUST472,7,1,900,4,2,3,9,Loyal Customers
+CUST473,311,1,50,1,2,1,4,At Risk
+CUST474,171,1,1500,3,2,4,9,Loyal Customers
+CUST475,347,1,75,1,2,2,5,At Risk
+CUST476,126,1,2000,3,2,4,9,Loyal Customers
+CUST477,253,1,120,2,2,2,6,Potential Loyalists
+CUST478,264,1,60,2,2,1,5,At Risk
+CUST479,131,1,1200,3,2,4,9,Loyal Customers
+CUST480,187,1,2000,2,2,4,8,Loyal Customers
+CUST481,210,1,1200,2,2,4,8,Loyal Customers
+CUST482,250,1,1200,2,2,4,8,Loyal Customers
+CUST483,252,1,30,2,2,1,5,At Risk
+CUST484,354,1,1200,1,2,4,7,Potential Loyalists
+CUST485,29,1,30,4,2,1,7,Potential Loyalists
+CUST486,268,1,25,2,2,1,5,At Risk
+CUST487,162,1,2000,3,2,4,9,Loyal Customers
+CUST488,198,1,900,2,2,3,7,Potential Loyalists
+CUST489,224,1,30,2,2,1,5,At Risk
+CUST490,331,1,150,1,2,3,6,Potential Loyalists
+CUST491,224,1,900,2,2,3,7,Potential Loyalists
+CUST492,187,1,100,2,2,2,6,Potential Loyalists
+CUST493,38,1,50,4,2,1,7,Potential Loyalists
+CUST494,106,1,200,3,2,3,8,Loyal Customers
+CUST495,162,1,60,3,2,1,6,Potential Loyalists
+CUST496,19,1,600,4,2,3,9,Loyal Customers
+CUST497,92,1,120,3,2,2,7,Potential Loyalists
+CUST498,197,1,100,2,2,2,6,Potential Loyalists
+CUST499,352,1,60,1,2,1,4,At Risk
+CUST500,307,1,100,1,3,2,6,Potential Loyalists
+CUST501,233,1,60,2,3,1,6,Potential Loyalists
+CUST502,275,1,150,1,3,3,7,Potential Loyalists
+CUST503,69,1,2000,4,3,4,11,Champions
+CUST504,231,1,150,2,3,3,8,Loyal Customers
+CUST505,347,1,50,1,3,1,5,At Risk
+CUST506,311,1,1500,1,3,4,8,Loyal Customers
+CUST507,61,1,1500,4,3,4,11,Champions
+CUST508,144,1,600,3,3,3,9,Loyal Customers
+CUST509,190,1,900,2,3,3,8,Loyal Customers
+CUST510,206,1,200,2,3,3,8,Loyal Customers
+CUST511,143,1,100,3,3,2,8,Loyal Customers
+CUST512,56,1,25,4,3,1,8,Loyal Customers
+CUST513,105,1,100,3,3,2,8,Loyal Customers
+CUST514,307,1,300,1,3,3,7,Potential Loyalists
+CUST515,169,1,900,3,3,3,9,Loyal Customers
+CUST516,71,1,100,4,3,2,9,Loyal Customers
+CUST517,269,1,100,2,3,2,7,Potential Loyalists
+CUST518,236,1,30,2,3,1,6,Potential Loyalists
+CUST519,344,1,120,1,3,2,6,Potential Loyalists
+CUST520,4,1,100,4,3,2,9,Loyal Customers
+CUST521,143,1,120,3,3,2,8,Loyal Customers
+CUST522,366,1,1500,1,3,4,8,Loyal Customers
+CUST523,100,1,300,3,3,3,9,Loyal Customers
+CUST524,91,1,1200,3,3,4,10,Champions
+CUST525,15,1,50,4,3,1,8,Loyal Customers
+CUST526,23,1,100,4,3,2,9,Loyal Customers
+CUST527,266,1,50,2,3,1,6,Potential Loyalists
+CUST528,180,1,60,3,3,1,7,Potential Loyalists
+CUST529,146,1,150,3,3,3,9,Loyal Customers
+CUST530,331,1,120,1,3,2,6,Potential Loyalists
+CUST531,26,1,500,4,3,3,10,Champions
+CUST532,197,1,120,2,3,2,7,Potential Loyalists
+CUST533,47,1,1500,4,3,4,11,Champions
+CUST534,206,1,1000,2,3,4,9,Loyal Customers
+CUST535,27,1,90,4,3,2,9,Loyal Customers
+CUST536,303,1,120,1,3,2,6,Potential Loyalists
+CUST537,213,1,500,2,3,3,8,Loyal Customers
+CUST538,107,1,150,3,3,3,9,Loyal Customers
+CUST539,208,1,500,2,3,3,8,Loyal Customers
+CUST540,25,1,900,4,3,3,10,Champions
+CUST541,157,1,500,3,3,3,9,Loyal Customers
+CUST542,199,1,50,2,3,1,6,Potential Loyalists
+CUST543,160,1,600,3,3,3,9,Loyal Customers
+CUST544,10,1,25,4,3,1,8,Loyal Customers
+CUST545,215,1,50,2,3,1,6,Potential Loyalists
+CUST546,83,1,200,4,3,3,10,Champions
+CUST547,301,1,2000,1,3,4,8,Loyal Customers
+CUST548,268,1,60,2,3,1,6,Potential Loyalists
+CUST549,151,1,100,3,3,2,8,Loyal Customers
+CUST550,26,1,900,4,3,3,10,Champions
+CUST551,172,1,900,3,3,3,9,Loyal Customers
+CUST552,20,1,75,4,3,2,9,Loyal Customers
+CUST553,277,1,1200,1,3,4,8,Loyal Customers
+CUST554,51,1,150,4,3,3,10,Champions
+CUST555,75,1,300,4,3,3,10,Champions
+CUST556,212,1,50,2,3,1,6,Potential Loyalists
+CUST557,159,1,90,3,3,2,8,Loyal Customers
+CUST558,86,1,25,4,3,1,8,Loyal Customers
+CUST559,366,1,1200,1,3,4,8,Loyal Customers
+CUST560,211,1,50,2,3,1,6,Potential Loyalists
+CUST561,220,1,2000,2,3,4,9,Loyal Customers
+CUST562,259,1,50,2,3,1,6,Potential Loyalists
+CUST563,146,1,60,3,3,1,7,Potential Loyalists
+CUST564,70,1,100,4,3,2,9,Loyal Customers
+CUST565,56,1,60,4,3,1,8,Loyal Customers
+CUST566,31,1,30,4,3,1,8,Loyal Customers
+CUST567,202,1,900,2,3,3,8,Loyal Customers
+CUST568,128,1,300,3,3,3,9,Loyal Customers
+CUST569,140,1,200,3,3,3,9,Loyal Customers
+CUST570,140,1,500,3,3,3,9,Loyal Customers
+CUST571,21,1,50,4,3,1,8,Loyal Customers
+CUST572,257,1,2000,2,3,4,9,Loyal Customers
+CUST573,105,1,60,3,3,1,7,Potential Loyalists
+CUST574,124,1,50,3,3,1,7,Potential Loyalists
+CUST575,280,1,100,1,3,2,6,Potential Loyalists
+CUST576,29,1,150,4,3,3,10,Champions
+CUST577,323,1,2000,1,3,4,8,Loyal Customers
+CUST578,221,1,120,2,3,2,7,Potential Loyalists
+CUST579,103,1,30,3,3,1,7,Potential Loyalists
+CUST580,27,1,1500,4,3,4,11,Champions
+CUST581,42,1,60,4,3,1,8,Loyal Customers
+CUST582,49,1,900,4,3,3,10,Champions
+CUST583,195,1,100,2,3,2,7,Potential Loyalists
+CUST584,319,1,200,1,3,3,7,Potential Loyalists
+CUST585,246,1,25,2,3,1,6,Potential Loyalists
+CUST586,22,1,50,4,3,1,8,Loyal Customers
+CUST587,208,1,1200,2,3,4,9,Loyal Customers
+CUST588,251,1,60,2,3,1,6,Potential Loyalists
+CUST589,265,1,1000,2,3,4,9,Loyal Customers
+CUST590,291,1,900,1,3,3,7,Potential Loyalists
+CUST591,354,1,100,1,3,2,6,Potential Loyalists
+CUST592,343,1,2000,1,3,4,8,Loyal Customers
+CUST593,241,1,60,2,3,1,6,Potential Loyalists
+CUST594,123,1,600,3,3,3,9,Loyal Customers
+CUST595,54,1,2000,4,3,4,11,Champions
+CUST596,329,1,300,1,3,3,7,Potential Loyalists
+CUST597,133,1,1200,3,3,4,10,Champions
+CUST598,154,1,120,3,3,2,8,Loyal Customers
+CUST599,44,1,100,4,3,2,9,Loyal Customers
+CUST600,72,1,1000,4,3,4,11,Champions
+CUST601,267,1,30,2,3,1,6,Potential Loyalists
+CUST602,10,1,300,4,3,3,10,Champions
+CUST603,170,1,90,3,3,2,8,Loyal Customers
+CUST604,113,1,200,3,3,3,9,Loyal Customers
+CUST605,162,1,1000,3,3,4,10,Champions
+CUST606,242,1,50,2,3,1,6,Potential Loyalists
+CUST607,291,1,75,1,3,2,6,Potential Loyalists
+CUST608,31,1,1500,4,3,4,11,Champions
+CUST609,14,1,100,4,3,2,9,Loyal Customers
+CUST610,364,1,600,1,3,3,7,Potential Loyalists
+CUST611,312,1,1500,1,3,4,8,Loyal Customers
+CUST612,149,1,500,3,3,3,9,Loyal Customers
+CUST613,254,1,90,2,3,2,7,Potential Loyalists
+CUST614,276,1,1200,1,3,4,8,Loyal Customers
+CUST615,10,1,100,4,3,2,9,Loyal Customers
+CUST616,101,1,100,3,3,2,8,Loyal Customers
+CUST617,129,1,30,3,3,1,7,Potential Loyalists
+CUST618,341,1,50,1,3,1,5,At Risk
+CUST619,81,1,100,4,3,2,9,Loyal Customers
+CUST620,239,1,75,2,3,2,7,Potential Loyalists
+CUST621,304,1,1000,1,3,4,8,Loyal Customers
+CUST622,133,1,75,3,3,2,8,Loyal Customers
+CUST623,298,1,150,1,3,3,7,Potential Loyalists
+CUST624,129,1,900,3,3,3,9,Loyal Customers
+CUST625,25,1,300,4,3,3,10,Champions
+CUST626,95,1,2000,3,3,4,10,Champions
+CUST627,80,1,50,4,3,1,8,Loyal Customers
+CUST628,62,1,200,4,3,3,10,Champions
+CUST629,204,1,50,2,3,1,6,Potential Loyalists
+CUST630,140,1,100,3,3,2,8,Loyal Customers
+CUST631,53,1,90,4,3,2,9,Loyal Customers
+CUST632,108,1,100,3,3,2,8,Loyal Customers
+CUST633,148,1,120,3,3,2,8,Loyal Customers
+CUST634,86,1,2000,4,3,4,11,Champions
+CUST635,138,1,900,3,3,3,9,Loyal Customers
+CUST636,285,1,1500,1,3,4,8,Loyal Customers
+CUST637,123,1,600,3,3,3,9,Loyal Customers
+CUST638,136,1,500,3,3,3,9,Loyal Customers
+CUST639,234,1,200,2,3,3,8,Loyal Customers
+CUST640,240,1,120,2,3,2,7,Potential Loyalists
+CUST641,40,1,300,4,3,3,10,Champions
+CUST642,225,1,100,2,3,2,7,Potential Loyalists
+CUST643,100,1,90,3,3,2,8,Loyal Customers
+CUST644,118,1,75,3,3,2,8,Loyal Customers
+CUST645,46,1,120,4,3,2,9,Loyal Customers
+CUST646,244,1,90,2,3,2,7,Potential Loyalists
+CUST647,226,1,1500,2,3,4,9,Loyal Customers
+CUST648,141,1,1200,3,3,4,10,Champions
+CUST649,327,1,600,1,3,3,7,Potential Loyalists
+CUST650,1,1,30,4,3,1,8,Loyal Customers
+CUST651,220,1,150,2,3,3,8,Loyal Customers
+CUST652,246,1,100,2,3,2,7,Potential Loyalists
+CUST653,227,1,75,2,3,2,7,Potential Loyalists
+CUST654,195,1,75,2,3,2,7,Potential Loyalists
+CUST655,203,1,500,2,3,3,8,Loyal Customers
+CUST656,90,1,90,4,3,2,9,Loyal Customers
+CUST657,325,1,25,1,3,1,5,At Risk
+CUST658,296,1,25,1,3,1,5,At Risk
+CUST659,289,1,30,1,3,1,5,At Risk
+CUST660,248,1,1000,2,3,4,9,Loyal Customers
+CUST661,170,1,100,3,3,2,8,Loyal Customers
+CUST662,11,1,1000,4,3,4,11,Champions
+CUST663,288,1,1200,1,3,4,8,Loyal Customers
+CUST664,5,1,2000,4,3,4,11,Champions
+CUST665,257,1,50,2,3,1,6,Potential Loyalists
+CUST666,334,1,150,1,3,3,7,Potential Loyalists
+CUST667,154,1,500,3,3,3,9,Loyal Customers
+CUST668,158,1,150,3,3,3,9,Loyal Customers
+CUST669,197,1,1200,2,3,4,9,Loyal Customers
+CUST670,89,1,30,4,3,1,8,Loyal Customers
+CUST671,128,1,150,3,3,3,9,Loyal Customers
+CUST672,154,1,100,3,3,2,8,Loyal Customers
+CUST673,335,1,1500,1,3,4,8,Loyal Customers
+CUST674,261,1,300,2,3,3,8,Loyal Customers
+CUST675,151,1,60,3,3,1,7,Potential Loyalists
+CUST676,167,1,1500,3,3,4,10,Champions
+CUST677,67,1,1500,4,3,4,11,Champions
+CUST678,10,1,900,4,3,3,10,Champions
+CUST679,356,1,90,1,3,2,6,Potential Loyalists
+CUST680,72,1,900,4,3,3,10,Champions
+CUST681,172,1,60,3,3,1,7,Potential Loyalists
+CUST682,122,1,1200,3,3,4,10,Champions
+CUST683,363,1,1000,1,3,4,8,Loyal Customers
+CUST684,186,1,1000,3,3,4,10,Champions
+CUST685,214,1,50,2,3,1,6,Potential Loyalists
+CUST686,167,1,200,3,3,3,9,Loyal Customers
+CUST687,152,1,300,3,3,3,9,Loyal Customers
+CUST688,91,1,100,3,3,2,8,Loyal Customers
+CUST689,87,1,100,4,3,2,9,Loyal Customers
+CUST690,58,1,900,4,3,3,10,Champions
+CUST691,254,1,90,2,3,2,7,Potential Loyalists
+CUST692,117,1,100,3,3,2,8,Loyal Customers
+CUST693,254,1,1500,2,3,4,9,Loyal Customers
+CUST694,227,1,50,2,3,1,6,Potential Loyalists
+CUST695,143,1,150,3,3,3,9,Loyal Customers
+CUST696,118,1,200,3,3,3,9,Loyal Customers
+CUST697,352,1,500,1,3,3,7,Potential Loyalists
+CUST698,167,1,300,3,3,3,9,Loyal Customers
+CUST699,194,1,120,2,3,2,7,Potential Loyalists
+CUST700,24,1,2000,4,3,4,11,Champions
+CUST701,19,1,60,4,3,1,8,Loyal Customers
+CUST702,159,1,600,3,3,3,9,Loyal Customers
+CUST703,282,1,100,1,3,2,6,Potential Loyalists
+CUST704,127,1,90,3,3,2,8,Loyal Customers
+CUST705,301,1,50,1,3,1,5,At Risk
+CUST706,48,1,100,4,3,2,9,Loyal Customers
+CUST707,93,1,500,3,3,3,9,Loyal Customers
+CUST708,353,1,900,1,3,3,7,Potential Loyalists
+CUST709,165,1,1000,3,3,4,10,Champions
+CUST710,63,1,1500,4,3,4,11,Champions
+CUST711,78,1,1500,4,3,4,11,Champions
+CUST712,27,1,50,4,3,1,8,Loyal Customers
+CUST713,353,1,75,1,3,2,6,Potential Loyalists
+CUST714,324,1,500,1,3,3,7,Potential Loyalists
+CUST715,37,1,100,4,3,2,9,Loyal Customers
+CUST716,147,1,1200,3,3,4,10,Champions
+CUST717,297,1,500,1,3,3,7,Potential Loyalists
+CUST718,130,1,75,3,3,2,8,Loyal Customers
+CUST719,273,1,60,1,3,1,5,At Risk
+CUST720,341,1,1500,1,3,4,8,Loyal Customers
+CUST721,233,1,500,2,3,3,8,Loyal Customers
+CUST722,172,1,900,3,3,3,9,Loyal Customers
+CUST723,199,1,200,2,3,3,8,Loyal Customers
+CUST724,258,1,150,2,3,3,8,Loyal Customers
+CUST725,134,1,300,3,3,3,9,Loyal Customers
+CUST726,199,1,1200,2,3,4,9,Loyal Customers
+CUST727,194,1,900,2,3,3,8,Loyal Customers
+CUST728,172,1,150,3,3,3,9,Loyal Customers
+CUST729,224,1,1200,2,3,4,9,Loyal Customers
+CUST730,151,1,50,3,3,1,7,Potential Loyalists
+CUST731,237,1,2000,2,3,4,9,Loyal Customers
+CUST732,325,1,1000,1,3,4,8,Loyal Customers
+CUST733,126,1,30,3,3,1,7,Potential Loyalists
+CUST734,357,1,30,1,3,1,5,At Risk
+CUST735,90,1,2000,4,3,4,11,Champions
+CUST736,340,1,100,1,3,2,6,Potential Loyalists
+CUST737,187,1,50,2,3,1,6,Potential Loyalists
+CUST738,252,1,100,2,3,2,7,Potential Loyalists
+CUST739,34,1,25,4,3,1,8,Loyal Customers
+CUST740,331,1,200,1,3,3,7,Potential Loyalists
+CUST741,33,1,300,4,3,3,10,Champions
+CUST742,346,1,2000,1,3,4,8,Loyal Customers
+CUST743,351,1,2000,1,3,4,8,Loyal Customers
+CUST744,240,1,25,2,3,1,6,Potential Loyalists
+CUST745,264,1,100,2,3,2,7,Potential Loyalists
+CUST746,356,1,90,1,3,2,6,Potential Loyalists
+CUST747,48,1,30,4,3,1,8,Loyal Customers
+CUST748,288,1,150,1,3,3,7,Potential Loyalists
+CUST749,244,1,30,2,3,1,6,Potential Loyalists
+CUST750,302,1,75,1,4,2,7,Potential Loyalists
+CUST751,124,1,50,3,4,1,8,Loyal Customers
+CUST752,24,1,100,4,4,2,10,Champions
+CUST753,308,1,30,1,4,1,6,Potential Loyalists
+CUST754,78,1,100,4,4,2,10,Champions
+CUST755,255,1,75,2,4,2,8,Loyal Customers
+CUST756,128,1,1200,3,4,4,11,Champions
+CUST757,8,1,1200,4,4,4,12,Champions
+CUST758,235,1,100,2,4,2,8,Loyal Customers
+CUST759,178,1,100,3,4,2,9,Loyal Customers
+CUST760,281,1,500,1,4,3,8,Loyal Customers
+CUST761,56,1,500,4,4,3,11,Champions
+CUST762,56,1,50,4,4,1,9,Loyal Customers
+CUST763,308,1,50,1,4,1,6,Potential Loyalists
+CUST764,283,1,25,1,4,1,6,Potential Loyalists
+CUST765,207,1,200,2,4,3,9,Loyal Customers
+CUST766,311,1,900,1,4,3,8,Loyal Customers
+CUST767,70,1,75,4,4,2,10,Champions
+CUST768,353,1,75,1,4,2,7,Potential Loyalists
+CUST769,207,1,120,2,4,2,8,Loyal Customers
+CUST770,72,1,50,4,4,1,9,Loyal Customers
+CUST771,20,1,50,4,4,1,9,Loyal Customers
+CUST772,174,1,30,3,4,1,8,Loyal Customers
+CUST773,163,1,2000,3,4,4,11,Champions
+CUST774,265,1,50,2,4,1,7,Potential Loyalists
+CUST775,328,1,100,1,4,2,7,Potential Loyalists
+CUST776,63,1,90,4,4,2,10,Champions
+CUST777,13,1,150,4,4,3,11,Champions
+CUST778,45,1,100,4,4,2,10,Champions
+CUST779,242,1,1000,2,4,4,10,Champions
+CUST780,314,1,50,1,4,1,6,Potential Loyalists
+CUST781,10,1,500,4,4,3,11,Champions
+CUST782,212,1,900,2,4,3,9,Loyal Customers
+CUST783,16,1,300,4,4,3,11,Champions
+CUST784,59,1,500,4,4,3,11,Champions
+CUST785,305,1,200,1,4,3,8,Loyal Customers
+CUST786,77,1,100,4,4,2,10,Champions
+CUST787,345,1,25,1,4,1,6,Potential Loyalists
+CUST788,189,1,900,2,4,3,9,Loyal Customers
+CUST789,94,1,2000,3,4,4,11,Champions
+CUST790,147,1,25,3,4,1,8,Loyal Customers
+CUST791,28,1,25,4,4,1,9,Loyal Customers
+CUST792,177,1,50,3,4,1,8,Loyal Customers
+CUST793,331,1,30,1,4,1,6,Potential Loyalists
+CUST794,107,1,300,3,4,3,10,Champions
+CUST795,35,1,300,4,4,3,11,Champions
+CUST796,192,1,120,2,4,2,8,Loyal Customers
+CUST797,360,1,75,1,4,2,7,Potential Loyalists
+CUST798,151,1,50,3,4,1,8,Loyal Customers
+CUST799,116,1,100,3,4,2,9,Loyal Customers
+CUST800,312,1,1200,1,4,4,9,Loyal Customers
+CUST801,145,1,200,3,4,3,10,Champions
+CUST802,181,1,30,3,4,1,8,Loyal Customers
+CUST803,41,1,100,4,4,2,10,Champions
+CUST804,131,1,30,3,4,1,8,Loyal Customers
+CUST805,4,1,1500,4,4,4,12,Champions
+CUST806,288,1,900,1,4,3,8,Loyal Customers
+CUST807,144,1,200,3,4,3,10,Champions
+CUST808,276,1,2000,1,4,4,9,Loyal Customers
+CUST809,99,1,100,3,4,2,9,Loyal Customers
+CUST810,33,1,100,4,4,2,10,Champions
+CUST811,228,1,50,2,4,1,7,Potential Loyalists
+CUST812,51,1,75,4,4,2,10,Champions
+CUST813,91,1,150,3,4,3,10,Champions
+CUST814,119,1,500,3,4,3,10,Champions
+CUST815,128,1,75,3,4,2,9,Loyal Customers
+CUST816,143,1,1000,3,4,4,11,Champions
+CUST817,63,1,200,4,4,3,11,Champions
+CUST818,229,1,500,2,4,3,9,Loyal Customers
+CUST819,201,1,100,2,4,2,8,Loyal Customers
+CUST820,241,1,200,2,4,3,9,Loyal Customers
+CUST821,322,1,300,1,4,3,8,Loyal Customers
+CUST822,224,1,150,2,4,3,9,Loyal Customers
+CUST823,136,1,100,3,4,2,9,Loyal Customers
+CUST824,242,1,120,2,4,2,8,Loyal Customers
+CUST825,129,1,25,3,4,1,8,Loyal Customers
+CUST826,75,1,300,4,4,3,11,Champions
+CUST827,54,1,900,4,4,3,11,Champions
+CUST828,24,1,1200,4,4,4,12,Champions
+CUST829,172,1,90,3,4,2,9,Loyal Customers
+CUST830,194,1,150,2,4,3,9,Loyal Customers
+CUST831,352,1,100,1,4,2,7,Potential Loyalists
+CUST832,113,1,2000,3,4,4,11,Champions
+CUST833,200,1,200,2,4,3,9,Loyal Customers
+CUST834,273,1,60,1,4,1,6,Potential Loyalists
+CUST835,117,1,200,3,4,3,10,Champions
+CUST836,258,1,50,2,4,1,7,Potential Loyalists
+CUST837,185,1,90,3,4,2,9,Loyal Customers
+CUST838,234,1,600,2,4,3,9,Loyal Customers
+CUST839,192,1,1200,2,4,4,10,Champions
+CUST840,223,1,50,2,4,1,7,Potential Loyalists
+CUST841,61,1,100,4,4,2,10,Champions
+CUST842,7,1,600,4,4,3,11,Champions
+CUST843,225,1,1500,2,4,4,10,Champions
+CUST844,82,1,150,4,4,3,11,Champions
+CUST845,361,1,500,1,4,3,8,Loyal Customers
+CUST846,102,1,50,3,4,1,8,Loyal Customers
+CUST847,269,1,1200,2,4,4,10,Champions
+CUST848,323,1,75,1,4,2,7,Potential Loyalists
+CUST849,243,1,50,2,4,1,7,Potential Loyalists
+CUST850,158,1,1000,3,4,4,11,Champions
+CUST851,116,1,50,3,4,1,8,Loyal Customers
+CUST852,82,1,300,4,4,3,11,Champions
+CUST853,243,1,1000,2,4,4,10,Champions
+CUST854,13,1,50,4,4,1,9,Loyal Customers
+CUST855,123,1,25,3,4,1,8,Loyal Customers
+CUST856,36,1,120,4,4,2,10,Champions
+CUST857,2,1,50,4,4,1,9,Loyal Customers
+CUST858,115,1,100,3,4,2,9,Loyal Customers
+CUST859,137,1,1500,3,4,4,11,Champions
+CUST860,358,1,200,1,4,3,8,Loyal Customers
+CUST861,319,1,90,1,4,2,7,Potential Loyalists
+CUST862,216,1,1200,2,4,4,10,Champions
+CUST863,253,1,50,2,4,1,7,Potential Loyalists
+CUST864,159,1,500,3,4,3,10,Champions
+CUST865,12,1,300,4,4,3,11,Champions
+CUST866,242,1,50,2,4,1,7,Potential Loyalists
+CUST867,210,1,500,2,4,3,9,Loyal Customers
+CUST868,27,1,300,4,4,3,11,Champions
+CUST869,69,1,1500,4,4,4,12,Champions
+CUST870,178,1,120,3,4,2,9,Loyal Customers
+CUST871,124,1,60,3,4,1,8,Loyal Customers
+CUST872,83,1,75,4,4,2,10,Champions
+CUST873,95,1,100,3,4,2,9,Loyal Customers
+CUST874,190,1,30,2,4,1,7,Potential Loyalists
+CUST875,149,1,2000,3,4,4,11,Champions
+CUST876,85,1,120,4,4,2,10,Champions
+CUST877,197,1,25,2,4,1,7,Potential Loyalists
+CUST878,186,1,30,3,4,1,8,Loyal Customers
+CUST879,7,1,30,4,4,1,9,Loyal Customers
+CUST880,134,1,1000,3,4,4,11,Champions
+CUST881,228,1,300,2,4,3,9,Loyal Customers
+CUST882,210,1,50,2,4,1,7,Potential Loyalists
+CUST883,238,1,500,2,4,3,9,Loyal Customers
+CUST884,248,1,60,2,4,1,7,Potential Loyalists
+CUST885,305,1,120,1,4,2,7,Potential Loyalists
+CUST886,268,1,900,2,4,3,9,Loyal Customers
+CUST887,205,1,100,2,4,2,8,Loyal Customers
+CUST888,305,1,100,1,4,2,7,Potential Loyalists
+CUST889,92,1,50,3,4,1,8,Loyal Customers
+CUST890,13,1,50,4,4,1,9,Loyal Customers
+CUST891,272,1,900,1,4,3,8,Loyal Customers
+CUST892,268,1,50,2,4,1,7,Potential Loyalists
+CUST893,256,1,50,2,4,1,7,Potential Loyalists
+CUST894,119,1,30,3,4,1,8,Loyal Customers
+CUST895,225,1,120,2,4,2,8,Loyal Customers
+CUST896,65,1,50,4,4,1,9,Loyal Customers
+CUST897,98,1,100,3,4,2,9,Loyal Customers
+CUST898,61,1,90,4,4,2,10,Champions
+CUST899,222,1,600,2,4,3,9,Loyal Customers
+CUST900,315,1,60,1,4,1,6,Potential Loyalists
+CUST901,267,1,30,2,4,1,7,Potential Loyalists
+CUST902,215,1,50,2,4,1,7,Potential Loyalists
+CUST903,250,1,200,2,4,3,9,Loyal Customers
+CUST904,182,1,500,3,4,3,10,Champions
+CUST905,275,1,300,1,4,3,8,Loyal Customers
+CUST906,212,1,50,2,4,1,7,Potential Loyalists
+CUST907,359,1,25,1,4,1,6,Potential Loyalists
+CUST908,4,1,1200,4,4,4,12,Champions
+CUST909,93,1,300,3,4,3,10,Champions
+CUST910,302,1,150,1,4,3,8,Loyal Customers
+CUST911,226,1,900,2,4,3,9,Loyal Customers
+CUST912,343,1,150,1,4,3,8,Loyal Customers
+CUST913,339,1,90,1,4,2,7,Potential Loyalists
+CUST914,83,1,500,4,4,3,11,Champions
+CUST915,217,1,90,2,4,2,8,Loyal Customers
+CUST916,9,1,50,4,4,1,9,Loyal Customers
+CUST917,302,1,200,1,4,3,8,Loyal Customers
+CUST918,40,1,90,4,4,2,10,Champions
+CUST919,115,1,50,3,4,1,8,Loyal Customers
+CUST920,314,1,75,1,4,2,7,Potential Loyalists
+CUST921,360,1,75,1,4,2,7,Potential Loyalists
+CUST922,73,1,50,4,4,1,9,Loyal Customers
+CUST923,221,1,900,2,4,3,9,Loyal Customers
+CUST924,126,1,100,3,4,2,9,Loyal Customers
+CUST925,121,1,300,3,4,3,10,Champions
+CUST926,141,1,30,3,4,1,8,Loyal Customers
+CUST927,192,1,2000,2,4,4,10,Champions
+CUST928,272,1,1200,1,4,4,9,Loyal Customers
+CUST929,340,1,75,1,4,2,7,Potential Loyalists
+CUST930,237,1,200,2,4,3,9,Loyal Customers
+CUST931,122,1,120,3,4,2,9,Loyal Customers
+CUST932,308,1,100,1,4,2,7,Potential Loyalists
+CUST933,333,1,30,1,4,1,6,Potential Loyalists
+CUST934,161,1,500,3,4,3,10,Champions
+CUST935,115,1,50,3,4,1,8,Loyal Customers
+CUST936,329,1,200,1,4,3,8,Loyal Customers
+CUST937,71,1,500,4,4,3,11,Champions
+CUST938,44,1,200,4,4,3,11,Champions
+CUST939,15,1,300,4,4,3,11,Champions
+CUST940,339,1,30,1,4,1,6,Potential Loyalists
+CUST941,289,1,50,1,4,1,6,Potential Loyalists
+CUST942,290,1,1500,1,4,4,9,Loyal Customers
+CUST943,78,1,1200,4,4,4,12,Champions
+CUST944,211,1,50,2,4,1,7,Potential Loyalists
+CUST945,323,1,25,1,4,1,6,Potential Loyalists
+CUST946,239,1,2000,2,4,4,10,Champions
+CUST947,306,1,300,1,4,3,8,Loyal Customers
+CUST948,81,1,75,4,4,2,10,Champions
+CUST949,153,1,50,3,4,1,8,Loyal Customers
+CUST950,56,1,900,4,4,3,11,Champions
+CUST951,61,1,100,4,4,2,10,Champions
+CUST952,50,1,25,4,4,1,9,Loyal Customers
+CUST953,251,1,90,2,4,2,8,Loyal Customers
+CUST954,99,1,900,3,4,3,10,Champions
+CUST955,172,1,25,3,4,1,8,Loyal Customers
+CUST956,136,1,1500,3,4,4,11,Champions
+CUST957,140,1,120,3,4,2,9,Loyal Customers
+CUST958,214,1,50,2,4,1,7,Potential Loyalists
+CUST959,65,1,60,4,4,1,9,Loyal Customers
+CUST960,147,1,60,3,4,1,8,Loyal Customers
+CUST961,210,1,200,2,4,3,9,Loyal Customers
+CUST962,75,1,60,4,4,1,9,Loyal Customers
+CUST963,49,1,50,4,4,1,9,Loyal Customers
+CUST964,336,1,900,1,4,3,8,Loyal Customers
+CUST965,54,1,200,4,4,3,11,Champions
+CUST966,316,1,1000,1,4,4,9,Loyal Customers
+CUST967,260,1,25,2,4,1,7,Potential Loyalists
+CUST968,46,1,900,4,4,3,11,Champions
+CUST969,258,1,900,2,4,3,9,Loyal Customers
+CUST970,231,1,2000,2,4,4,10,Champions
+CUST971,28,1,200,4,4,3,11,Champions
+CUST972,325,1,100,1,4,2,7,Potential Loyalists
+CUST973,286,1,50,1,4,1,6,Potential Loyalists
+CUST974,244,1,30,2,4,1,7,Potential Loyalists
+CUST975,278,1,200,1,4,3,8,Loyal Customers
+CUST976,84,1,600,4,4,3,11,Champions
+CUST977,328,1,75,1,4,2,7,Potential Loyalists
+CUST978,286,1,150,1,4,3,8,Loyal Customers
+CUST979,365,1,25,1,4,1,6,Potential Loyalists
+CUST980,157,1,75,3,4,2,9,Loyal Customers
+CUST981,136,1,60,3,4,1,8,Loyal Customers
+CUST982,14,1,90,4,4,2,10,Champions
+CUST983,62,1,300,4,4,3,11,Champions
+CUST984,126,1,500,3,4,3,10,Champions
+CUST985,217,1,50,2,4,1,7,Potential Loyalists
+CUST986,350,1,1000,1,4,4,9,Loyal Customers
+CUST987,248,1,900,2,4,3,9,Loyal Customers
+CUST988,219,1,75,2,4,2,8,Loyal Customers
+CUST989,5,1,25,4,4,1,9,Loyal Customers
+CUST990,222,1,1000,2,4,4,10,Champions
+CUST991,7,1,100,4,4,2,10,Champions
+CUST992,134,1,60,3,4,1,8,Loyal Customers
+CUST993,330,1,150,1,4,3,8,Loyal Customers
+CUST994,15,1,1000,4,4,4,12,Champions
+CUST995,247,1,30,2,4,1,7,Potential Loyalists
+CUST996,231,1,50,2,4,1,7,Potential Loyalists
+CUST997,46,1,90,4,4,2,10,Champions
+CUST998,65,1,100,4,4,2,10,Champions
+CUST999,28,1,150,4,4,3,11,Champions
